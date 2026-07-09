@@ -212,11 +212,57 @@ Delivery needed to scale beyond the in-house team, using an outsourced developme
 
 ## Skills {#skills}
 
-**Current:** React, TypeScript, JavaScript, AG Grid, React Query, TanStack Query, Tailwind CSS, Radix UI, Jest, React Testing Library, Python, Django, REST APIs, Git, GitHub, Rspack, Webpack, Gulp, ESM, CI/CD, Agile, Scrum, Linear, Jira, Code Review
+### Core stack today
+<ul class="skill-tags">
+<li>React (18 &amp; 19)</li><li>TypeScript</li><li>Redux</li><li>AG Grid</li><li>Jest</li><li>Django</li><li>Docker</li><li>Tailwind CSS</li><li>Git/GitHub</li>
+</ul>
 
-**Accessibility:** WCAG 2.1/2.2, WAI-ARIA, semantic HTML, colour contrast compliance, AXE, Lighthouse, JAWS, NVDA
+### Accessibility
+<ul class="skill-tags">
+<li>WCAG 2.1/2.2</li><li>WAI-ARIA</li><li>JAWS</li><li>NVDA</li><li>AXE</li>
+</ul>
 
-**Also experienced in:** Angular, jQuery, Java, PHP, XML, XHTML, SiteCore, WordPress, Shopify, Liquid, Figma, Adobe Photoshop, Adobe Illustrator, BEM, SCSS, SASS, Bootstrap, Responsive Web Design, GSAP, Selenium, BrowserStack, SVN, GitKraken
+### Also experienced in
+
+**Frameworks / languages**
+<ul class="skill-tags">
+<li>Angular</li><li>jQuery</li><li>Java</li><li>PHP</li><li>XML/XHTML</li>
+</ul>
+
+**CMS / platforms**
+<ul class="skill-tags">
+<li>SiteCore</li><li>WordPress</li><li>Shopify (Liquid)</li><li>Shopify+</li>
+</ul>
+
+**Design tooling**
+<ul class="skill-tags">
+<li>Figma</li><li>Adobe Photoshop</li><li>Adobe Illustrator</li>
+</ul>
+
+**Version control**
+<ul class="skill-tags">
+<li>GitKraken</li><li>SVN (TortoiseSVN)</li>
+</ul>
+
+**CSS methodology &amp; frameworks**
+<ul class="skill-tags">
+<li>BEM</li><li>SCSS/SASS</li><li>Bootstrap</li><li>Responsive Web Design</li>
+</ul>
+
+**Animation**
+<ul class="skill-tags">
+<li>GSAP (GreenSock)</li>
+</ul>
+
+**Testing**
+<ul class="skill-tags">
+<li>Selenium</li>
+</ul>
+
+**Ways of working**
+<ul class="skill-tags">
+<li>Agile methodologies</li>
+</ul>
 
 ## Contact {#contact}
 
