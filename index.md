@@ -8,7 +8,7 @@ title: Home
 **Frontend Engineer | React & TypeScript Specialist**
 West Yorkshire, UK &middot; [mr_nad_mohammed@yahoo.co.uk](mailto:mr_nad_mohammed@yahoo.co.uk) &middot; [LinkedIn](https://linkedin.com/in/nadeem-muhammad) &middot; [GitHub](https://github.com/nadeem-muhammad)
 
-## About
+## About {#about}
 
 Frontend Engineer with 16+ years building web experiences — from early design-led agency work to enterprise-scale React engineering. A career spanning digital agencies, retail brands, government platforms, and fintech.
 
@@ -18,7 +18,7 @@ Frontend delivery for major brands including ASDA, Walmart, Halfords, Microsoft,
 
 More recently, a full move into modern frontend and full-stack engineering — building enterprise fund management platforms for clients including JPMorgan, Bank of America, UBS, and BNP Paribas, working with React, TypeScript, and complex, data-heavy UI such as AG Grid tables, custom field systems, and large-scale ID migrations.
 
-## Experience
+## Experience {#experience}
 
 **Frontend Engineer — Edgefolio**
 *Apr 2023 – Present*
@@ -51,7 +51,7 @@ Built the ASDA Baby & Toddler Club hub from the ground up (1M+ views at peak); l
 **Earlier career (2010–2013)**
 Chapter Eight (event platforms for Carl Cox, VooDoo Events); Barker Brooks (led a new Digital line); Capita / Pay360 (ePayment gateway and council websites).
 
-## Case Studies
+## Case Studies {#case-studies}
 
 ### Company-wide UUID migration — Edgefolio
 Fund management platforms serving JPMorgan, BofA, UBS, and BNP Paribas were built around integer primary keys — a constraint that limited how the platform could scale and integrate.
@@ -81,7 +81,7 @@ Surpass, a widely-used online assessment platform, needed WCAG 2.1/2.2 and WAI-A
 **What I did:** Implemented ARIA support, fixed colour contrast failures, and ran accessibility audits using AXE, Lighthouse, and screen readers (JAWS, NVDA), working closely with designers and backend engineers to catch issues early rather than late.
 **Result:** Accessibility built into the platform's foundations, not bolted on — an approach carried into every project since.
 
-## Skills
+## Skills {#skills}
 
 **Current:** React, TypeScript, JavaScript, AG Grid, React Query, TanStack Query, Tailwind CSS, Radix UI, Jest, React Testing Library, Python, Django, REST APIs, Git, GitHub, Rspack, Webpack, Gulp, ESM, CI/CD, Agile, Scrum, Linear, Jira, Code Review
 
@@ -89,7 +89,7 @@ Surpass, a widely-used online assessment platform, needed WCAG 2.1/2.2 and WAI-A
 
 **Also experienced in:** Angular, jQuery, Java, PHP, XML, XHTML, SiteCore, WordPress, Shopify, Liquid, Figma, Adobe Photoshop, Adobe Illustrator, BEM, SCSS, SASS, Bootstrap, Responsive Web Design, GSAP, Selenium, BrowserStack, SVN, GitKraken
 
-## Contact
+## Contact {#contact}
 
 I'd welcome the chance to talk about Frontend Developer opportunities.
 
