@@ -273,3 +273,13 @@ a.sidebar-nav-item:focus {
   color: #767676;
   margin-bottom: .5rem;
 }
+
+/* Navy for main section headings */
+.content h2 {
+  color: #0b2545;
+}
+
+/* Blue accent for role/company lines */
+.content h3 {
+  color: #1d6fa5;
+}
