@@ -68,10 +68,24 @@ Built the ASDA Baby & Toddler Club hub from the ground up (1M+ views at peak); l
 </div>
 
 <div class="timeline-item" markdown="1">
-### Earlier career
-<span class="post-date">2010 – 2013</span>
+### Frontend Web Developer / Web Designer — Chapter Eight, Leeds
+<span class="post-date">2013</span>
 
-Chapter Eight (event platforms for Carl Cox, VooDoo Events); Barker Brooks (led a new Digital line); Capita / Pay360 (ePayment gateway and council websites).
+Built event platform websites for major names in live events — Carl Cox, VooDoo Events, and No Curfew Events — integrating the Event Genius ticketing platform as a CMS to power ticket sales and event listings.
+</div>
+
+<div class="timeline-item" markdown="1">
+### Frontend Web Developer / Web Designer — Barker Brooks, Leeds
+<span class="post-date">2012 – 2013</span>
+
+Headed up a brand-new "Digital" line for the publishing and creative arts firm, taking it from a standing start to leading the build of its first-ever eCommerce website.
+</div>
+
+<div class="timeline-item" markdown="1">
+### Frontend Web Developer / Senior Web Designer — Capita / Pay360, Oldham
+<span class="post-date">2010 – 2012</span>
+
+Built ePayment gateways and local council websites using HTML/XHTML, JavaScript, CSS, and PHP, progressing from Web Designer to Web Developer over two years.
 </div>
 
 ## Case Studies {#case-studies}
