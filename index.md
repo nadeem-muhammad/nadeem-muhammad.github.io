@@ -68,21 +68,21 @@ Built the ASDA Baby & Toddler Club hub from the ground up (1M+ views at peak); l
 </div>
 
 <div class="timeline-item" markdown="1">
-### Frontend Web Developer / Web Designer — Chapter Eight, Leeds
+### Frontend Web Developer / Web Designer - Chapter Eight, Leeds
 <span class="post-date">2013</span>
 
-Built event platform websites for major names in live events — Carl Cox, VooDoo Events, and No Curfew Events — integrating the Event Genius ticketing platform as a CMS to power ticket sales and event listings.
+Built event platform websites for major names in live events - Carl Cox, VooDoo Events, and No Curfew Events - integrating the Event Genius ticketing platform as a CMS to power ticket sales and event listings.
 </div>
 
 <div class="timeline-item" markdown="1">
-### Frontend Web Developer / Web Designer — Barker Brooks, Leeds
+### Frontend Web Developer / Web Designer - Barker Brooks, Leeds
 <span class="post-date">2012 – 2013</span>
 
 Headed up a brand-new "Digital" line for the publishing and creative arts firm, taking it from a standing start to leading the build of its first-ever eCommerce website.
 </div>
 
 <div class="timeline-item" markdown="1">
-### Frontend Web Developer / Senior Web Designer — Capita / Pay360, Oldham
+### Frontend Web Developer / Senior Web Designer - Capita / Pay360, Oldham
 <span class="post-date">2010 – 2012</span>
 
 Built ePayment gateways and local council websites using HTML/XHTML, JavaScript, CSS, and PHP, progressing from Web Designer to Web Developer over two years.
@@ -94,7 +94,7 @@ Built ePayment gateways and local council websites using HTML/XHTML, JavaScript,
 
 <div class="timeline-item" markdown="1">
 #### Company-wide UUID migration
-Fund management platforms serving JPMorgan, BofA, UBS, and BNP Paribas were built around integer primary keys — a constraint that limited how the platform could scale and integrate.
+Fund management platforms serving JPMorgan, BofA, UBS, and BNP Paribas were built around integer primary keys - a constraint that limited how the platform could scale and integrate.
 
 **My role:** Led the migration end-to-end, spanning both frontend and backend.
 
@@ -105,18 +105,18 @@ Fund management platforms serving JPMorgan, BofA, UBS, and BNP Paribas were buil
 
 <div class="timeline-item" markdown="1">
 #### Fund Groups migration to AG Grid
-Fund Groups needed moving onto the platform's modern AG Grid data layer — a full-stack piece of work that would normally be split across a frontend and backend engineer.
+Fund Groups needed moving onto the platform's modern AG Grid data layer - a full-stack piece of work that would normally be split across a frontend and backend engineer.
 
 **My role:** Independently delivered both sides of the migration, despite backend not being my core specialism.
 
 **What I did:** Built the React frontend and the associated Python/Django backend myself, with sign-off from the Dev Lead to run it as a full-stack workstream.
 
-**Result:** Shipped without needing to hand off backend work — a fast, single-owner delivery of a cross-stack feature.
+**Result:** Shipped without needing to hand off backend work - a fast, single-owner delivery of a cross-stack feature.
 </div>
 
 <div class="timeline-item" markdown="1">
 #### Custom field management system
-Companies, Contacts, and Introductions each needed configurable fields, with BNP Paribas later requiring their own bespoke set — a system needed to be reusable, not bespoke per module.
+Companies, Contacts, and Introductions each needed configurable fields, with BNP Paribas later requiring their own bespoke set - a system needed to be reusable, not bespoke per module.
 
 **My role:** Designed and built the system from scratch.
 
@@ -135,14 +135,14 @@ Surpass, a widely-used online assessment platform, needed WCAG 2.1/2.2 and WAI-A
 
 **What I did:** Implemented ARIA support, fixed colour contrast failures, and ran accessibility audits using AXE, Lighthouse, and screen readers (JAWS, NVDA), working closely with designers and backend engineers to catch issues early rather than late.
 
-**Result:** Accessibility built into the platform's foundations, not bolted on — an approach carried into every project since.
+**Result:** Accessibility built into the platform's foundations, not bolted on - an approach carried into every project since.
 </div>
 
 ### LiquidLogic
 
 <div class="timeline-item" markdown="1">
 #### CMS templates built for non-technical content teams
-Local authority Social Care and Education teams needed to manage their own web content, but had no development skills — the platform needed to put real control in their hands without risking site integrity.
+Local authority Social Care and Education teams needed to manage their own web content, but had no development skills - the platform needed to put real control in their hands without risking site integrity.
 
 **My role:** Frontend Web Developer & Designer, working on an in-house Java-based CMS.
 
@@ -166,7 +166,7 @@ Government and local authority websites needed clear navigation and dynamic cont
 
 <div class="timeline-item" markdown="1">
 #### Holding brand consistency together through a company transition
-A TUPE transfer moved the ASDA, Walmart UK, and The Card Factory accounts to a new employer overnight — with real risk of dropped quality or inconsistent delivery across the accounts during the handover.
+A TUPE transfer moved the ASDA, Walmart UK, and The Card Factory accounts to a new employer overnight - with real risk of dropped quality or inconsistent delivery across the accounts during the handover.
 
 **My role:** Frontend Web Developer & Designer, continuing delivery across all three retail accounts through the transition.
 
@@ -179,7 +179,7 @@ A TUPE transfer moved the ASDA, Walmart UK, and The Card Factory accounts to a n
 
 <div class="timeline-item" markdown="1">
 #### Building the ASDA Baby & Toddler Club hub
-ASDA needed a dedicated content hub for expecting and new parents — pre- and post-pregnancy articles, recipes, and tools — built to genuinely earn repeat visits rather than a one-off campaign page.
+ASDA needed a dedicated content hub for expecting and new parents - pre- and post-pregnancy articles, recipes, and tools - built to genuinely earn repeat visits rather than a one-off campaign page.
 
 **My role:** Built the hub from the ground up.
 
@@ -190,7 +190,7 @@ ASDA needed a dedicated content hub for expecting and new parents — pre- and p
 
 <div class="timeline-item" markdown="1">
 #### A suite of interactive parenting tools
-Brand partners including Graco, Maxi-Cosi, and Joie wanted genuinely useful tools for parents, not just static product pages — something that would drive engagement on its own merits.
+Brand partners including Graco, Maxi-Cosi, and Joie wanted genuinely useful tools for parents, not just static product pages - something that would drive engagement on its own merits.
 
 **My role:** Built the interactive tools end-to-end.
 
@@ -201,13 +201,13 @@ Brand partners including Graco, Maxi-Cosi, and Joie wanted genuinely useful tool
 
 <div class="timeline-item" markdown="1">
 #### Leading an outsourced development team across time zones
-Delivery needed to scale beyond the in-house team, using an outsourced development group based in India (borngroup.com) — with all the time zone and communication challenges that involves.
+Delivery needed to scale beyond the in-house team, using an outsourced development group based in India (borngroup.com) - with all the time zone and communication challenges that involves.
 
 **My role:** Lead, managing the outsourced team directly.
 
 **What I did:** Handled workload allocation, timelines, and check-ins into SVN, working alongside US-based back-end developers on projects for Walmart and Halfords.
 
-**Result:** My first experience leading engineers across time zones — a skill carried into every leadership moment since.
+**Result:** My first experience leading engineers across time zones - a skill carried into every leadership moment since.
 </div>
 
 ## Skills {#skills}
