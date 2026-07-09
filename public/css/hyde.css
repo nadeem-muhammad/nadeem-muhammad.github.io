@@ -248,3 +248,19 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+/* Portfolio tweaks */
+.sidebar-about h1,
+.sidebar-about h1 a {
+  font-size: 1.6rem;
+  line-height: 1.25;
+  word-wrap: break-word;
+  color: #fff;
+}
+
+.content { padding: 3rem 1.5rem; line-height: 1.7; }
+.content h2 { margin-top: 3rem; margin-bottom: 1rem; }
+.content h3 { margin-top: 2rem; margin-bottom: .75rem; }
+.content p { margin-bottom: 1.1rem; }
+.content ul { margin-bottom: 1.1rem; }
+.content li { margin-bottom: .3rem; }
