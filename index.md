@@ -20,36 +20,59 @@ More recently, a full move into modern frontend and full-stack engineering — b
 
 ## Experience {#experience}
 
-**Frontend Engineer — Edgefolio**
-*Apr 2023 – Present*
+<div class="timeline-item" markdown="1">
+### Frontend Engineer — Edgefolio
+<span class="post-date">Apr 2023 – Present</span>
+
 TypeScript-first frontend and full-stack engineering for enterprise fund management platforms serving JPMorgan, Bank of America, UBS, and BNP Paribas.
+
 - Led a company-wide UUID migration end-to-end across AG Grid components and Django templates.
 - Independently delivered a full-stack Fund Groups migration to AG Grid — React frontend and Django backend.
 - Designed a reusable custom field management system used across Companies, Contacts, and Introductions.
 - Maintained a 300+ test suite with Jest and React Testing Library; reviews PRs across both engineering teams.
+</div>
 
-**Accessibility Developer / Frontend Web Developer — Surpass**
-*Apr 2021 – Mar 2023*
+<div class="timeline-item" markdown="1">
+### Accessibility Developer / Frontend Web Developer — Surpass
+<span class="post-date">Apr 2021 – Mar 2023</span>
+
 Hired to embed WCAG 2.1/2.2 and WAI-ARIA compliance deep into an Angular codebase, as part of a newly formed accessibility team.
+</div>
 
-**Shopify Developer (Contract) — WeMakeWebsites**
-*Oct 2020 – Mar 2021*
+<div class="timeline-item" markdown="1">
+### Shopify Developer (Contract) — WeMakeWebsites
+<span class="post-date">Oct 2020 – Mar 2021</span>
+
 Built Shopify components and pages from Figma designs across multiple concurrent client builds.
+</div>
 
-**Frontend Web Developer & Designer — LiquidLogic**
-*Nov 2018 – Oct 2020*
+<div class="timeline-item" markdown="1">
+### Frontend Web Developer & Designer — LiquidLogic
+<span class="post-date">Nov 2018 – Oct 2020</span>
+
 Built case management software and websites for UK local authority Social, Adult Care, and Education services.
+</div>
 
-**Frontend Web Developer & Designer — GIG Retail**
-*Jan 2018 – Sept 2018*
+<div class="timeline-item" markdown="1">
+### Frontend Web Developer & Designer — GIG Retail
+<span class="post-date">Jan 2018 – Sept 2018</span>
+
 TUPE'd across to continue frontend delivery for ASDA, Walmart UK, and The Card Factory.
+</div>
 
-**Frontend Web Developer & Designer — Triad Retail Media, Miami/Leeds**
-*Sep 2013 – Jan 2018*
+<div class="timeline-item" markdown="1">
+### Frontend Web Developer & Designer — Triad Retail Media, Miami/Leeds
+<span class="post-date">Sep 2013 – Jan 2018</span>
+
 Built the ASDA Baby & Toddler Club hub from the ground up (1M+ views at peak); led an outsourced development team based in India.
+</div>
 
-**Earlier career (2010–2013)**
+<div class="timeline-item" markdown="1">
+### Earlier career
+<span class="post-date">2010 – 2013</span>
+
 Chapter Eight (event platforms for Carl Cox, VooDoo Events); Barker Brooks (led a new Digital line); Capita / Pay360 (ePayment gateway and council websites).
+</div>
 
 ## Case Studies {#case-studies}
 
