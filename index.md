@@ -266,7 +266,7 @@ Delivery needed to scale beyond the in-house team, using an outsourced developme
 
 ## Contact {#contact}
 
-I'd welcome the chance to talk about Frontend Developer opportunities.
+Always happy to talk frontend, or otherwise :)
 
 - Email: [mr_nad_mohammed@yahoo.co.uk](mailto:mr_nad_mohammed@yahoo.co.uk)
 - Phone: +44 (0) 7877 781 299
