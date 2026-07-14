@@ -24,12 +24,17 @@ More recently, a full move into modern frontend and full-stack engineering - bui
 ### Frontend Engineer - Edgefolio
 <span class="post-date">Apr 2023 – Present</span>
 
-TypeScript-first frontend and full-stack engineering for enterprise fund management platforms serving JPMorgan, Bank of America, UBS, and BNP Paribas.
+TypeScript-first frontend and full-stack engineering for enterprise fund management platforms serving JPMorgan, Bank of America, UBS, and BNP Paribas, across three years spanning legacy UI modernisation and new product delivery.
 
-- Led a company-wide UUID migration end-to-end across AG Grid components and Django templates.
-- Independently delivered a full-stack Fund Groups migration to AG Grid - React frontend and Django backend.
-- Designed a reusable custom field management system used across Companies, Contacts, and Introductions.
-- Maintained a 300+ test suite with Jest and React Testing Library; reviews PRs across both engineering teams.
+- Led a company-wide UUID migration end-to-end, transitioning AG Grid components and Django templates from integer primary keys to UUIDs across Marketing Jurisdictions, Data Sharing, campaign templates, and CRM modules.
+- Independently delivered a full-stack Fund Groups migration to AG Grid, building both the React frontend and the associated Python/Django backend, with sign-off to run it as a full-stack workstream.
+- Delivered the Jurisdiction Permissions module in Manager Portal, a compliance-critical feature enabling 400 fund managers to define per-fund distribution eligibility ahead of a major client onboarding deadline.
+- Designed and built a reusable custom field management system used across Companies, Contacts, and Introductions, later extended for BNP Paribas-specific requirements.
+- Delivered the Events module (Events for Investors and Cap Intro) and the Content module (Content Sharing and Distribution) for BofA, working from Figma specifications through to production.
+- Delivered JPMorgan-branded investor dashboard features from the platform's early releases, including the Insights and My Matches sections.
+- Maintained and extended a 300+ test frontend suite using Jest and React Testing Library, integrated into CI via Turborepo.
+- Reviewed a high volume of pull requests across both engineering teams, including for the Principal Engineer, the Dev Lead, and a co-founder; mentored a junior engineer through code review.
+- Built the Thales Agora Content Library frontend from the ground up, supporting PDF and URL-based content, with an earlier video migration from Vimeo modal popups to inline playback with analytics tracking.
 </div>
 
 <div class="timeline-item" markdown="1">
