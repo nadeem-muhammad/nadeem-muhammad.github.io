@@ -129,6 +129,7 @@ Investors previously relied on offline PDF fact sheets and manual processes to e
 <div class="timeline-item" markdown="1">
 ### Content module (Content Sharing & Distribution)
 
+<div class="case-study-shots">
 <img src="/assets/content-screenshot.png"
      data-full="/assets/content-screenshot.png"
      alt="Content Library and sharing interface"
@@ -136,8 +137,9 @@ Investors previously relied on offline PDF fact sheets and manual processes to e
 
 <img src="/assets/content-screenshot-two.png"
      data-full="/assets/content-screenshot-two.png"
-     alt="Content Library and sharing interface"
+     alt="Content Library category and tags filter view"
      class="case-study-shot">
+</div>
 
 Sharing fund content with investors and managers needed to be fast, trackable, and easy to manage at scale - the previous approach didn't give clients visibility into engagement.
 
