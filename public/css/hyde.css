@@ -381,3 +381,13 @@ a.sidebar-nav-item:focus {
 .lightbox-close:hover {
   opacity: 1;
 }
+
+.case-study-shots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin: 12px 0;
+}
+.case-study-shots .case-study-shot {
+  margin: 0; /* the wrapper now handles spacing, not each image */
+}
