@@ -134,6 +134,11 @@ Investors previously relied on offline PDF fact sheets and manual processes to e
      alt="Content Library and sharing interface"
      class="case-study-shot">
 
+<img src="/assets/content-screenshot-two.png"
+     data-full="/assets/content-screenshot-two.png"
+     alt="Content Library and sharing interface"
+     class="case-study-shot">
+
 Sharing fund content with investors and managers needed to be fast, trackable, and easy to manage at scale - the previous approach didn't give clients visibility into engagement.
 
 **My role:** Delivered major client-facing Content Sharing and Distribution features for BofA, working from Figma specifications through to production.
