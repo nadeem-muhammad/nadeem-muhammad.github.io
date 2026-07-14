@@ -88,6 +88,52 @@ Headed up a brand-new "Digital" line for the publishing and creative arts firm, 
 Built ePayment gateways and local council websites using HTML/XHTML, JavaScript, CSS, and PHP, progressing from Web Designer to Web Developer over two years.
 </div>
 
+## React Projects {#react-projects}
+
+A closer look at three React modules I've built recently at Edgefolio - each shipped end-to-end on the frontend, working from spec through to production.
+
+<div class="timeline-item" markdown="1">
+### Marketing Jurisdictions module
+
+[SCREENSHOT: Jurisdiction Permissions form in Manager Portal]
+
+BofA needed to onboard around 400 fund managers by a hard deadline, and a core requirement blocking that rollout was jurisdictional permissioning: managers needed a way to control which countries and investor types each fund's data could legally be distributed to, fund by fund.
+
+**My role:** Delivered the frontend for the Jurisdiction Permissions feature in Manager Portal, working from early-stage specs alongside design and backend.
+
+**What I did:** Built a per-Fund, per-Country permissions form allowing manager users to define distribution eligibility for each fund - taking inspiration from an existing JPMC Edge data model for the backend approach, while scoping the initial release to country-level permissions (with investor-type permissioning planned as a later phase).
+
+**Result:** A compliance-critical piece of the BofA onboarding puzzle, unblocking managers to define distribution rules ahead of the 400-manager rollout deadline.
+</div>
+
+<div class="timeline-item" markdown="1">
+### Events module (Events for Investors & Cap Intro)
+
+[SCREENSHOT: Events list or event detail/interest page]
+
+Investors previously relied on offline PDF fact sheets and manual processes to express interest in fund events - slow, hard to track, and disconnected from the rest of the platform.
+
+**My role:** Delivered the Events for Investors and Cap Intro features end-to-end on the frontend, working from Figma specifications through to production.
+
+**What I did:** Built the interest-gathering functionality allowing investors to indicate interest in events while viewing fund profiles in a fully compliant manner, removing the need for offline fact sheets entirely.
+
+**Result:** The functionality has directly replaced a manual, offline process - BofA's product lead has confirmed the platform will facilitate over 2,000 introductions via this feature at their major annual conference alone.
+</div>
+
+<div class="timeline-item" markdown="1">
+### Content module (Content Sharing & Distribution)
+
+[SCREENSHOT: Content Library or content sharing interface]
+
+Sharing fund content with investors and managers needed to be fast, trackable, and easy to manage at scale - the previous approach didn't give clients visibility into engagement.
+
+**My role:** Delivered major client-facing Content Sharing and Distribution features for BofA, working from Figma specifications through to production.
+
+**What I did:** Built the content sharing and distribution UI, alongside the broader Content Library frontend - including migrating the video experience from Vimeo modal popups to inline playback with analytics event tracking.
+
+**Result:** Since launch, the platform has recorded over 8,000 content views for BofA alone, with the client citing the module as a major driver of investor engagement.
+</div>
+
 ## Case Studies {#case-studies}
 
 ### Edgefolio
