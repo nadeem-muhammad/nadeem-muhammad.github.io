@@ -112,8 +112,8 @@ BofA needed to onboard around 400 fund managers by a hard deadline, and a core r
 <div class="timeline-item" markdown="1">
 ### Events module (Events for Investors & Cap Intro)
 
-<img src="/assets/events-screenshot"
-     data-full="/assets/events-screenshot"
+<img src="/assets/events-screenshot.png"
+     data-full="/assets/events-screenshot.png"
      alt="Events list and interest-gathering page"
      class="case-study-shot">
 
