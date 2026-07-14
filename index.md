@@ -276,7 +276,7 @@ Delivery needed to scale beyond the in-house team, using an outsourced developme
 
 ### Core stack today
 <ul class="skill-tags">
-<li>React (18 &amp; 19)</li><li>TypeScript</li><li>Redux</li><li>AG Grid</li><li>Jest</li><li>Django</li><li>Docker</li><li>Tailwind CSS</li><li>Git/GitHub</li>
+<li>React (18 &amp; 19)</li><li>TypeScript</li><li>TanStack Query</li><li>Axios</li><li>AG Grid</li><li>Jest</li><li>Python</li><li>Django</li><li>Docker</li><li>Tailwind CSS</li><li>Git/GitHub</li>
 </ul>
 
 ### Accessibility
