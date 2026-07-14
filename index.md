@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Nadeem Muhammad
+# Muhammad Nadeem
 
 **Frontend Engineer | React & TypeScript Specialist**
 West Yorkshire, UK &middot; [mr_nad_mohammed@yahoo.co.uk](mailto:mr_nad_mohammed@yahoo.co.uk) &middot; [LinkedIn](https://linkedin.com/in/nadeem-muhammad) &middot; [GitHub](https://github.com/nadeem-muhammad)
