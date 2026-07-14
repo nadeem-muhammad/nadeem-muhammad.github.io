@@ -145,7 +145,7 @@ Sharing fund content with investors and managers needed to be fast, trackable, a
 
 **My role:** Delivered major client-facing Content Sharing and Distribution features for BofA, working from Figma specifications through to production.
 
-**What I did:** Built the content sharing and distribution UI, alongside the broader Content Library frontend - including migrating the video experience from Vimeo modal popups to inline playback with analytics event tracking.
+**What I did:** Built the content sharing and distribution UI, alongside the broader Content Library frontend - supporting PDF and URL-based content today, with the architecture built to extend to video (including an earlier migration from Vimeo modal popups to inline playback with analytics event tracking).
 
 **Result:** Since launch, the platform has recorded over 8,000 content views for BofA alone, with the client citing the module as a major driver of investor engagement.
 </div>
