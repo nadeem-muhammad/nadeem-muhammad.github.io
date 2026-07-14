@@ -95,7 +95,10 @@ A closer look at three React modules I've built recently at Edgefolio - each shi
 <div class="timeline-item" markdown="1">
 ### Marketing Jurisdictions module
 
-[SCREENSHOT: Jurisdiction Permissions form in Manager Portal]
+<img src="/assets/marketing-jurisdiction-screenshot.png"
+     data-full="/assets/marketing-jurisdiction-screenshot.png"
+     alt="Jurisdiction Permissions form in Manager Portal"
+     class="case-study-shot">
 
 BofA needed to onboard around 400 fund managers by a hard deadline, and a core requirement blocking that rollout was jurisdictional permissioning: managers needed a way to control which countries and investor types each fund's data could legally be distributed to, fund by fund.
 
@@ -109,7 +112,10 @@ BofA needed to onboard around 400 fund managers by a hard deadline, and a core r
 <div class="timeline-item" markdown="1">
 ### Events module (Events for Investors & Cap Intro)
 
-[SCREENSHOT: Events list or event detail/interest page]
+<img src="/assets/events-screenshot"
+     data-full="/assets/events-screenshot"
+     alt="Events list and interest-gathering page"
+     class="case-study-shot">
 
 Investors previously relied on offline PDF fact sheets and manual processes to express interest in fund events - slow, hard to track, and disconnected from the rest of the platform.
 
@@ -123,7 +129,10 @@ Investors previously relied on offline PDF fact sheets and manual processes to e
 <div class="timeline-item" markdown="1">
 ### Content module (Content Sharing & Distribution)
 
-[SCREENSHOT: Content Library or content sharing interface]
+<img src="/assets/content-screenshot.png"
+     data-full="/assets/content-screenshot.png"
+     alt="Content Library and sharing interface"
+     class="case-study-shot">
 
 Sharing fund content with investors and managers needed to be fast, trackable, and easy to manage at scale - the previous approach didn't give clients visibility into engagement.
 
